@@ -1,0 +1,11 @@
+D:\Workspace\Learn\ASPNET\MiniWord_NguyenCanhThien\MiniWord_NguyenCanhThien\bin\Debug\MiniWord_NguyenCanhThien.exe.config
+D:\Workspace\Learn\ASPNET\MiniWord_NguyenCanhThien\MiniWord_NguyenCanhThien\bin\Debug\MiniWord_NguyenCanhThien.exe
+D:\Workspace\Learn\ASPNET\MiniWord_NguyenCanhThien\MiniWord_NguyenCanhThien\bin\Debug\MiniWord_NguyenCanhThien.pdb
+D:\Workspace\Learn\ASPNET\MiniWord_NguyenCanhThien\MiniWord_NguyenCanhThien\obj\Debug\MiniWord_NguyenCanhThien.csproj.AssemblyReference.cache
+D:\Workspace\Learn\ASPNET\MiniWord_NguyenCanhThien\MiniWord_NguyenCanhThien\obj\Debug\MiniWord_NguyenCanhThien.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Learn\ASPNET\MiniWord_NguyenCanhThien\MiniWord_NguyenCanhThien\obj\Debug\MiniWord_NguyenCanhThien.Form1.resources
+D:\Workspace\Learn\ASPNET\MiniWord_NguyenCanhThien\MiniWord_NguyenCanhThien\obj\Debug\MiniWord_NguyenCanhThien.Properties.Resources.resources
+D:\Workspace\Learn\ASPNET\MiniWord_NguyenCanhThien\MiniWord_NguyenCanhThien\obj\Debug\MiniWord_NguyenCanhThien.csproj.GenerateResource.cache
+D:\Workspace\Learn\ASPNET\MiniWord_NguyenCanhThien\MiniWord_NguyenCanhThien\obj\Debug\MiniWord_NguyenCanhThien.csproj.CoreCompileInputs.cache
+D:\Workspace\Learn\ASPNET\MiniWord_NguyenCanhThien\MiniWord_NguyenCanhThien\obj\Debug\MiniWord_NguyenCanhThien.exe
+D:\Workspace\Learn\ASPNET\MiniWord_NguyenCanhThien\MiniWord_NguyenCanhThien\obj\Debug\MiniWord_NguyenCanhThien.pdb
